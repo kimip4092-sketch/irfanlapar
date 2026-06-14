@@ -1,6 +1,10 @@
-{ 
-    "tokens": [
-       "Token 1",
-       " Token 2"
-       ]
+{
+  "tokens": [
+    "8741773339:AAEhbpT8S41NyxCrk0tV13S4Kpj8PJkz6fE",
+    "8688531785:AAE_lEfGJ2IFiiX-SZPS3-PnRaEAAG9BIHM",
+    "8800768752:AAGAzaFnSBD4JMjNga2gH5tl7YM2B69Pqj4",
+    "8741773339:AAEHbpT8S41NyxCrk0tV13S4Kpj8PJkz6fE",
+    "8999268394:AAGklZ4taEgBEPS2wHHN56z7g_IWg8xfUXg",
+    "8607454765:AAHt7qeTnYwSD0nHQ8ro1x7B3U6XfoI3Prw"
+  ]
 }
